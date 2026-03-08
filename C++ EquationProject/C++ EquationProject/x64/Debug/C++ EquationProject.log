@@ -1,3 +1,3 @@
 ﻿  C++ EquationProject.cpp
-D:\study\Fundmentals C++\C++ EquationProject\C++ EquationProject\C++ EquationProject.cpp(29,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  C++ EquationProject.vcxproj -> D:\study\Fundmentals C++\C++ EquationProject\x64\Debug\C++ EquationProject.exe
+D:\study\Fundmentals C++\Projects\C++ EquationProject\C++ EquationProject\C++ EquationProject.cpp(36,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  C++ EquationProject.vcxproj -> D:\study\Fundmentals C++\Projects\C++ EquationProject\x64\Debug\C++ EquationProject.exe
